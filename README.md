@@ -1,4 +1,4 @@
-# ColorCRASH 🎮
+# ColorCRASH 
 
 A cognitive skills training game disguised as a fast-paced color-matching arcade experience. Built with C++ and Raylib.
 
@@ -58,8 +58,8 @@ ColorCRASH is an arcade-style game where you control a character on a grid of co
 - Maximum grid complexity
 
 ### Win & Lose Conditions
- **Win:** Successfully match the target color before time runs out in each round
- **Lose:** Touch a fireball OR fail to stand on the correct colored tile when time expires
+- **Win:** Successfully match the target color before time runs out in each round
+- **Lose:** Touch a fireball OR fail to stand on the correct colored tile when time expires
 
 ## Impact & Benefits:
 
