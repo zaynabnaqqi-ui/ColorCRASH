@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\Raylib_Project\main.cpp(168,41): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Raylib_Project\main.cpp(210,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\Raylib_Project\main.cpp(424,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Raylib_Project\main.cpp(429,23): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Raylib_Project\main.cpp(434,23): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Raylib_Project\main.cpp(438,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Raylib_Project.vcxproj -> C:\Users\Admin\source\repos\Raylib_Project\x64\Debug\Raylib_Project.exe
